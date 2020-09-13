@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace MaximumNumberOfOnes
 {
+    //Code complexity of this code is O(n) as it is scanning the whole array and comparing the 1's
     class Program
     {
         static void Main(string[] args)
